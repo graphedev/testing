@@ -1,0 +1,40 @@
+body {
+	background-color: #800;
+}
+
+#centering {
+	width: 100%;
+	position: fixed;
+}
+
+#header {
+	width: 1200px;
+	height: 30px;
+	background-color: #eee8aa;
+	margin: auto;
+	position: relative;
+}	
+
+.headmenu {
+	text-decoration: none;
+	font-family: Calibri, serif;
+	font-size: 13px;
+}
+
+.headmenu:hover {
+	text-decoration: none;
+	font-size: 15px;
+}
+
+#bodydiv {
+	margin: auto;
+	margin-top: 40px;
+	width: 1200px;
+	height: 2500px;
+	background-color: #eee8aa;
+}
+
+p {
+	
+	font-size: 40px;
+}
