@@ -27,5 +27,5 @@
 	
 	$conn->close();
 	
-	header('Location: index.html');
+	header('Location: index.html'); //Ini comment untuk perubahan
 ?>
